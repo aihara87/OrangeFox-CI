@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://github.com/aihara87/android_device_infinix_Infinix-X663B -b 11"
+export DT_LINK="https://github.com/aihara87/android_device_infinix_Infinix-X663B.git -b 11"
 
 export DEVICE="Infinix-X663B"
 export OEM="infinix"
